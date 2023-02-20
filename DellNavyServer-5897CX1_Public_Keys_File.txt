@@ -1,0 +1,12 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+DellNavyServer-5897CX1 --- Public Keys ---DellNavyServer-5897CX1 --- Public Keys --- DellNavyServer-5897CX1 --- Public Keys --- DellNavyServer-5897CX1 --- Public Keys --- DellNavyServer-5897CX1 --- Public Keys
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBF/tMhlS50zgISJuXdDzcZefIHP/088ma7xbvByaxidNRR9KDRml7zil7iC0+lvKAaadhOm4EZWAzkkRi+btn4k=
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDtdEyHTl1umbllKrCHEGJdARaRI/N80trDQhr4qojVnUCG/ZCnsuK/QIOnES9nfUzJ9qRG5Zq14ZZKR50f72Q6KsFt05bV+J97fYvbyDwMO9RsAOWpvYgzjG5RFM3xHB3XZ9u6UdpW1MGCpqdlkEZL1n5NIG4m586weA7VWMyvXN2/8VNg8gSLLSIAToJKZZixz730jyp/yeCZ71yjqw4P/Cga8N7bvjGu+wNGmZryekhS0pts27fz3zmasB9btIdXWWeKDtcoxjUqw8s2vlwHYJUqhKqq+YSZRn0dkX9absknpMXUCW0j4CoAmXUY1z7kcU78Xu2Tt+mM/j/UJFJpaquwqg4wBQfxhg/gh4tWz/PoiNqb7hHPSNmuiemMhJjpHBhAeMf2dGG0fLrReUxkZ9DsEk6NbOZmfh5NcXEB7fHxVzGCFFp8402soEQ5D8rpRUIDZh/3IPcgmxYqD7mm55g3vax4icDdYhdkRoJGl9NVhr57D+c/vzJnW4MlTEc=
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMJJjLecacpo9OUrMUKaJRJJubC10eSFZ9OWj7HysPWZ
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+End --- DellNavyServer-5897CX1 --- Public Keys --- End --- DellNavyServer-5897CX1 --- Public Keys --- End Dell Navy Server-5897CX1 --- Public Keys --- End --- DellNavyServer-5897CX1 --- Public Keys ---
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+THE DELLNAYSERVER-5897CX1 HAS BEEN REPLACED WITH FEDORA_SERVER_5897CX1.  NAVY LINUX WASN'T WORKING FOR ME!  I ENDED UP GOING BACK TO FEDORA.  THE NEW PUBLIC KEYS FOR FEDORA_SERVER_5897CX1 ARE LOCATED IN SSH_Banner_Login_File_con_Public_Keys.txt - WHICH IS LOCATED IN THE PARENT DIRECTORY OF THIS FILE.
