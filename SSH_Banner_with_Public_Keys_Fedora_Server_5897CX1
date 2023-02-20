@@ -1,0 +1,49 @@
+             .',;::::;,'.                Fedora_Server_5897CX1                                  +++++          ++++++++++++++++++     +++  +++++++++     ++++++         ++++++++
+         .';:cccccccccccc:;,.            ----------------------------------                   +++++++++        ++++++++++++++++++     ++++++++++++++++     ++++++     ++++++++
+      .;cccccccccccccccccccccc;.         OS: Fedora Linux 37 (Server Edition)x86_64         +++++++++++++      +++++++++              +++         +++++      +++++++  ++++++
+    .:cccccccccccccccccccccccccc:.       Host: OptiPlex 7010 01                           +++++++++++++++++    +++++++++              +++         +++++        ++++++++++++
+  .;ccccccccccccc;.:dddl:.;ccccccc;.     Shell: bash 5.2.15                             +++++++++++++++++++++  +++++++++++++++++++    +++          ++++          ++++++++
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:. 	----------------------------------              ++++++++         +++++ +++++++++++++++++++    +++            ++            +++++
+.:ccccccccccccc;KMMc;cc;xMMc:ccccccc:.   Local Public Directory:                          ++++++++        +++  ++++++++++             +++                          +++++
+,cccccccccccccc;MMM.;cc;;WW::cccccccc,   /home/lstanfordadmin/Public/                       ++++++++      ++   ++++++++++             +++                           +++
+:cccccccccccccc;MMM.;cccccccccccccccc:   -----------------------------------                  +++++++++        ++++++++++++++++++++   +++                            ++
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:   To Contact the Administrator:                          +++++++++      +++++++++++++++++++++  +++                             +
+cccccc:0MMKxdd:;MMMkddc.;cccccccccccc;                                                            +++++++++
+ccccc:XM0';cccc;MMM.;cccccccccccccccc	Email: sirleeofstanford@gmail.com                           +++++++++
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;                                                                   ++++++++
+ccccc;0MNc.ccc.xMMd:ccccccccccccccc;     For emergency access:                            ++              +++++++++
+cccccc;dNMWXXXWM0::cccccccccccccc:,                                                     ++++            +++++++++++
+cccccccc;.:odl:.;cccccccccccccc:,.       Call: 540-446-6633                              +++++++++++++++++++++++
+:cccccccccccccccccccccccccccc:'.                                                          ++++++++++++++++++++++
+.:cccccccccccccccccccccc:;,..
+|_::cccccccccccccc::;,.                
+_______________________________________________________________________________________________________
+
+Dear User,
+
+Welcome to my Fedora Server.  It should be noted that access to this Server is by SSH Key Authentication ONLY!  Keystroked passwords are disabled.  The public keys of this computer are listed below for verification purposes.  If you are unsure whether a file came from this computer, you can use the public keys to verify your download.
+
+Please be advised that access to this device is strictly prohibited by anyone other than registered users of this computer.  Guest access is not permitted at this time.  If you need immediate, emergency, or urgent legitimate access to this device, but have not the credentials to login, then you may ontact the Network Administrator at the contact information provided above.
+
+All connections to and from this computer are logged, monitored, and reviewed regularly.  Unauthorized access to this computer will be prosecuted to the fullest extent of the law in the jurisdiction where applicable.  Thank you in advance for taking the time to read this far, and for respecting my computers and network.
+
+Sincerely,
+Lee Stanford
+-Admin  
+*****************************Start of Public Keys**********************************	
+___________________________________________________________________________________
+ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBIoEKWWKmHrM08iu6aTuGll4WuF5l7FrdMAEBPbEO5+EKPVuGQaweGbr6jYXT+ChArm3dxBCET0Al7zfhXohLA4=
+___________________________________________________________________________________
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCWc0uZgmU/0n7Svxtx3FVsFMNuseN7+Pnb7/
+oKVr8C2iTh6BiMaFYsUKFRPmV7XVUDBwmmGoKLFwtpHQpOLu8nITcnpG9GzJK/
+eoW+Jo9wMKWYGOd+qe9+jxlAM63m/
+o6kUZ3gKmDIV9hyX8jh1YdsIvtspgAe7JX8NgGcZK5hryrTaSRQnT+Kku63HjnPnwA58SfXIo2kBnnLFBka
+jJbSCONCSHo3twQXc1rJdiuTK72OKzg/
+4U2yhWTJ2FthptUkTj6NG9p1WU+23QxDVauBzn9m9/384C4kMLvi9xu8gFaMPUzIfSoi9HuBOwFIgBRrgbY
+Ly5PPrJEqMybOn7EkX6Gaq8dn59+WE+lsZx2m+jmbV+0eqfAMA08hp8Nmj7e8Y0eQHuBlNSf9nMloCI4hb7
+EuEAgP6rrXq2j8DkNJ30tLbVj+QZiCJRV6VCnFy1aE8jERrFebEWcRrdT99OX4lP9klOOEM1Aj8AwqNbSEe
+QNoU3h3CkSa9WZ5rb86wvE=
+___________________________________________________________________________________
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGB7T2KU/06gLVHnWFcjAbGUBvlpPRPsBWWRP1sg3kwC 
+___________________________________________________________________________________
+*******************************End of Public Keys**********************************
